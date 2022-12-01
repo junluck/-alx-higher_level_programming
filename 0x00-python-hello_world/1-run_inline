@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x $PYCODE;./$PYCODE
+cat !/usr/bin/python3 cat $PYCODE >> 1-run_inline.py
